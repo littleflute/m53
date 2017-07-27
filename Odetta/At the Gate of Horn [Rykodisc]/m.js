@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Gallows Tree (Gallows Pole).mp3";		
+f[2]	= "03 The Fox.mp3";		
+f[3]	= "04 Maybe She Go.mp3";		
+f[4]	= "05 Midnight Special.mp3";		
+f[5]	= "06 Deep River.mp3";		
+f[6]	= "07 Chilly Winds.mp3";		
+f[7]	= "09 Devilish Mary.mp3";		
+f[8]	= "10 Take This Hammer.mp3";		
+f[9]	= "11 He's Got the Whole World in His Hands.mp3";		
+f[10]	= "12 Sail Away Ladies.mp3";		
+f[11]	= "13 Lass of the Low Country.mp3";		
+f[12]	= "15 Pretty Horses.mp3";		
+f[13]	= "Greensleeves.mp3";		
+f[14]	= "Lowlands.mp3";		
+f[15]	= "Timber.mp3";		

@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 No. 2. March.mp3";		
+f[2]	= "02 No. 4. Dance.mp3";		
+f[3]	= "03 No. 5. Scene and The Grandfather Dance.mp3";		
+f[4]	= "04 No. 6. Scene.mp3";		
+f[5]	= "05 No. 7. Scene.mp3";		
+f[6]	= "06 No. 8. Scene.mp3";		
+f[7]	= "07 No. 12 Divertissement.mp3";		
+f[8]	= "08 No. 13. Waltz of the Flowers.mp3";		
+f[9]	= "09 No. 14. Pas de deux.mp3";		
+f[10]	= "10 No. 15. Closing Waltz and Grand Finale.mp3";		
